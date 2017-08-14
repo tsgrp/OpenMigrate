@@ -1,7 +1,7 @@
 OpenMigrate
 ===========
-TSG's Open Source Migration Tool
+TSG's Enterprise Content Management Migration Tool
 
-<a href='http://www.tsgrp.com/Open_Source/OpenMigrate/open-migrate.jsp' target='_blank'>http://www.tsgrp.com/Open_Source/OpenMigrate/open-migrate.jsp</a>
+<a href='http://www.tsgrp.com/products/openmigrate/' target='_blank'>http://www.tsgrp.com/products/openmigrate/</a>
 
 Please see the <a href='https://github.com/tsgrp/OpenMigrate/wiki'>wiki</a> for documentation.
